@@ -3633,19 +3633,20 @@ table ul {
 /* line 304, ../../sass/_export.scss */
 .biz-ex-logo-img {
   display: block;
+  align-self: center;
   width: 100px;
   height: 80px;
   margin: 0 auto;
   background: url("../img/waldo-s-logo.png") no-repeat;
+  background-size: cover;
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   /* line 304, ../../sass/_export.scss */
   .biz-ex-logo-img {
     background: url("../img/waldo-s-logo.png") no-repeat;
-     background-size: cover;
+    background-size: cover;
   }
 }
-
 /* line 316, ../../sass/_export.scss */
 .biz-ex-is-fullscreen .row.biz-ex-table-view {
   max-width: none;
