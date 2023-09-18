@@ -3633,8 +3633,8 @@ table ul {
 /* line 304, ../../sass/_export.scss */
 .biz-ex-logo-img {
   display: block;
-  width: 300px;
-  height: 70px;
+  width: 100px;
+  height: 80px;
   margin: 0 auto;
   background: url("../img/waldo-s-logo.png") no-repeat;
 }
